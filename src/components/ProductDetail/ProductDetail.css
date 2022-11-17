@@ -1,0 +1,17 @@
+.produc-details{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+.name {
+    margin-left: 50px;
+    font-weight: bold;
+}
+.info{
+    margin-top: 35px;
+}
